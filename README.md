@@ -1,5 +1,5 @@
-# digital-marketing
-Insights using real-time User-Browsing &amp; User-Purchasing data
+# Digital Marketing
+- Insights using real-time User-Browsing &amp; User-Purchasing data
 
 
 # Purchase Behaviour of Users in Online Retail
