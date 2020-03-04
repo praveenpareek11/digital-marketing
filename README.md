@@ -20,6 +20,10 @@ The approach taken is to divide the customer base in different segments, which w
 - Higher Revenue.
 
 For the Customer Segmentation I used **Clustering** Technique.
+
+Here is one of the plots:
+![download](https://user-images.githubusercontent.com/36000962/75844814-36757d80-5dfd-11ea-9b42-5e4538c2bdb5.png)
+
 #### The steps include:
 - Exploratory Data Analysis
 - Deciding the Clustering Strategy:
