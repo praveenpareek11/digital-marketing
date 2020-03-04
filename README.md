@@ -52,3 +52,9 @@ Here is one of the plots:
 - People who buy with a higher frequency and more recency tend to spend more based on the increasing trend in Monetary value with a corresponding increasing and decreasing trend for Frequency and Recency, respectively.
 - By looking at the boxplots of different clusters we see the difference in their Amount of purchase with maximum, minimum and median amount.
 
+More plots are:
+
+![download (1)](https://user-images.githubusercontent.com/36000962/75844942-9a984180-5dfd-11ea-8728-cb274bd486d1.png)
+![68747470733a2f2f757365722d696d616765732e67697468756275736572636f6e74656e742e636f6d2f33363030303936322f37353739313231332d33656534396538302d356439322d313165612d396361362d3730653038376530373332352e706e67](https://user-images.githubusercontent.com/36000962/75844944-9d933200-5dfd-11ea-9572-87650733f478.png)
+
+
